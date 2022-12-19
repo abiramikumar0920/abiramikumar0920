@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abirami kumar</h1>
-<h3 align="center">A passionate Technical writer</h3>
+<h3 align="center">A passionate writer</h3>
 
 - 🔭 I’m currently working on **Development**
 
