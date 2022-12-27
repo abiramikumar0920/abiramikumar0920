@@ -7,8 +7,6 @@
 
 - 👯 Having certificates in **Technical writing and content writing in udemy**
 
-- 🤝 Here is my sample of technical writing Document [https://github.com/abiramikumar0920/user-assistance-abi](https://github.com/abiramikumar0920/user-assistance-abi)
-
 - 🌱  Current Employer **Tata consultancy services**
 
 - 📫 How to reach me **abiramikumar0920@gmail.com**
