@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm abirami kumar</h1>
 <h3 align="center">A passionate writer</h3>
 
-- 🔭 I’m currently working on **Development**
+- 🔭 I’m currently working on **IT support**
 
-- 🌱 I’m currently learning **Static site generator,HUGO**
+- 🌱 I’m currently learning **Content writing, AI-Content writing**
 
-- 👯 Having certificates in **Technical writing and content writing in udemy**
+- 👯 Having Knowledge in **Technical writing(user guide doc),content writing**
 
 - 🌱 Current Employer **Tata consultancy services**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abiramikumar0920@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I have a power to laugh in a serious situation😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
